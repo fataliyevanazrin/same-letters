@@ -1,8 +1,8 @@
-# Same Letter
+# Same Letters
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
-**Same Letter** is an Angular application that generates random sentences and provides an input field where the user can type the sentence. As the user types, the app checks if the typed text matches the generated sentence. Correct letters turn green, while any mistakes are highlighted in red.
+**Same Letters** is an Angular application that generates random sentences and provides an input field where the user can type the sentence. As the user types, the app checks if the typed text matches the generated sentence. Correct letters turn green, while any mistakes are highlighted in red.
 
 ## Table of Contents
 
