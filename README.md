@@ -53,4 +53,4 @@ This is a great way to practice and improve your typing accuracy.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
